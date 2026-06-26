@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Michael
 
-<!--
-**MichaelTechGuy/MichaelTechGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer based in Texas, USA  
+🌱 Learning HTML, CSS, JavaScript  
+🚀 Building real-world projects step by step  
+📚 Self-taught & improving daily  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+•⁠  ⁠HTML
+•⁠  ⁠CSS
+•⁠  ⁠JavaScript (learning)
+
+---
+
+## 📂 Projects
+•⁠  ⁠🍽️ Restaurant Website (Live)
+•⁠  ⁠🐱 Cat Photo App (FreeCodeCamp)
+•⁠  ⁠✈️ Travel Agency Page
+
+---
+
+## 🌐 Live Projects
+•⁠  ⁠Cat Photo App: https://michaeltechguy.github.io/cat-photo-app-project/
+•⁠  ⁠Restaurant Site - In progess
+
+---
+
+## 📫 Connect With Me
+•⁠  ⁠GitHub: https://github.com/MichaelTechGuy
